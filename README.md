@@ -1,4 +1,4 @@
-## DatabaseDesign
+## Database Design for a Company
 The program, written in SQL, Java, JDBC is used for designing of a database for a company named Future Inc. The company has three types of 
 employees: technical staff, quality controller and worker. Each employee has a unique name, and address. A technical staff has an education
 record indicating the degrees he/she obtained (BS, MS etc.) and technical position. For each quality controller, the company records the 
