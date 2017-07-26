@@ -1,0 +1,26 @@
+1) Enter a new employee.
+2) Enter a new product associated with the person who made the product, repaired the product
+if it is repaired, or checked the product.
+3) Enter a customer associated with some products.
+4) Create a new account associated with a product.
+5) Enter a complaint associated with a customer and product.
+6) Enter an accident associated with appropriate employee and product.
+7) Retrieve the date produced and time spent to produce a particular product.
+8) Retrieve all products made by a particular worker.
+9) Retrieve the total number of errors a particular quality controller made. This is the total
+number of products certified by this controller and got some complaints.
+10) Retrieve the total costs of the products in the product3 category which were repaired at the
+request of a particular quality controller.
+11) Retrieve all customers who purchased all products of a particular color.
+12) Retrieve the total number of work days lost due to accidents in repairing the products which
+got complaints.
+13) Retrieve all customers who are also workers.
+14) Retrieve all the customers who have purchased the products made or certified or repaired by
+themselves.
+15) Retrieve the average cost of all products made in a particular year.
+16) Switch the position between a technical staff and a quality controller.
+17) Delete all accidents whose dates are in some range.
+18) Import: enter new customers from a data file until the file is empty (user must be asked to enter the input file name).
+19) Export: Retrieve all customers (in name order) and output them to a data file instead
+of screen (the user must be asked to enter the output file name).
+20) Quit the application.
